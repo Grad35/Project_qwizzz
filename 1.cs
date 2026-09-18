@@ -17,7 +17,7 @@ class Program
         double result = op switch
         {
             '+' => a + b,
-            '-' => a - b,
+            '-' => a - b,5
             '*' => a * b,
             '/' => b != 0 ? a / b : double.NaN,
             _ => double.NaN

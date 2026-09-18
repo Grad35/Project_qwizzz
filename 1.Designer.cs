@@ -28,7 +28,6 @@ namespace CSharpFormApp
         /// </summary>
         private void InitializeComponent()
         {
-            this.listbox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // Form1
@@ -40,20 +39,9 @@ namespace CSharpFormApp
             this.Name = "Form1";
             this.Text = "Form1";
             
-            // 
-            // listbox1
-            // 
-            this.listbox1.Location = new System.Drawing.Point(168, 96);
-            this.listbox1.Name = "listbox1";
-            this.listbox1.Size = new System.Drawing.Size(120, 95);
-            this.listbox1.TabIndex = 1;
-            this.listbox1.Text = "listbox1";
-this.listbox1.SelectedIndexChanged += new System.EventHandler(this.listbox1_SelectedIndexChanged);
-                        this.Controls.Add(this.listbox1);
             this.ResumeLayout(false);
         }
 
         #endregion
-    
-        private System.Windows.Forms.ListBox listbox1;}
+    }
 }
