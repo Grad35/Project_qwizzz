@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\Тимур\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\obj\\",
+        "projectPath": "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\grad\\.nuget\\packages\\",
+        "outputPath": "d:\\Project_Qwizzz\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Тимур\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\grad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
