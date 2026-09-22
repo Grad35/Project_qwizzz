@@ -46,7 +46,6 @@ namespace WinFormsApp1
             button7.Text = "Галит";
             button8.Text = "Тальк";
             answer = 2;
-            pictureBox1.Image = null;
             Disable();
             Enable2();
         }
@@ -60,7 +59,6 @@ namespace WinFormsApp1
             button7.Text = "Флюорит";
             button8.Text = "Азурит";
             answer = 4;
-            pictureBox1.Image = null;
             Disable();
             Enable2();
         }
@@ -74,7 +72,6 @@ namespace WinFormsApp1
             button7.Text = "Тальк";
             button8.Text = "Флюорит";
             answer = 3;
-            pictureBox1.Image = null;
             Disable();
             Enable2();
         }
@@ -88,7 +85,6 @@ namespace WinFormsApp1
             button7.Text = "Галит";
             button8.Text = "Пирит";
             answer = 2;
-            pictureBox1.Image = null;
             Disable();
             Enable2();
         }
@@ -104,12 +100,17 @@ namespace WinFormsApp1
             {
                 label1.Text = "Правильно!";
                 Enable();
-                pictureBox1.Image = null;
             }
             else
             {
                 label1.Text = "Неправильно";
             }
+        }
+
+        // Кнопка возврата — закрывает Form3
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
