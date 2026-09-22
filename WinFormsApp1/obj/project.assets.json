@@ -8,19 +8,19 @@
     "net8.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\grad\\.nuget\\packages\\": {}
+    "C:\\Users\\Тимур\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "d:\\Project_Qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\grad\\.nuget\\packages\\",
-      "outputPath": "d:\\Project_Qwizzz\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\Тимур\\.nuget\\packages\\",
+      "outputPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\grad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Тимур\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
