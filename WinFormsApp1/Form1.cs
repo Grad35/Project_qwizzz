@@ -12,5 +12,10 @@ namespace WinFormsApp1
             Form2 newform2 = new Form2();
             newform2.Show();
         }
+        private void btnAlexander_Click(object sender, EventArgs e)
+        {
+            Form3 newForm3 = new Form3();
+            newForm3.Show();
+        }
     }
 }

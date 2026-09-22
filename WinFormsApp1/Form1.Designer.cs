@@ -2,15 +2,8 @@
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,21 +15,18 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             button1 = new Button();
             label1 = new Label();
+            btnAlexander = new Button();
             SuspendLayout();
             // 
-            // button1
+            // button1 (Егор)
             // 
-            button1.Location = new Point(681, 57);
+            button1.Location = new Point(688, 12);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(100, 40);
             button1.TabIndex = 0;
             button1.Text = "Егор";
             button1.UseVisualStyleBackColor = true;
@@ -52,11 +42,22 @@
             label1.TabIndex = 1;
             label1.Text = "Квиз по минералам";
             // 
+            // btnAlexander
+            // 
+            btnAlexander.Location = new Point(12, 12);
+            btnAlexander.Name = "btnAlexander";
+            btnAlexander.Size = new Size(100, 40);
+            btnAlexander.TabIndex = 2;
+            btnAlexander.Text = "Александр";
+            btnAlexander.UseVisualStyleBackColor = true;
+            btnAlexander.Click += btnAlexander_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnAlexander);
             Controls.Add(label1);
             Controls.Add(button1);
             Name = "Form1";
@@ -69,5 +70,6 @@
 
         private Button button1;
         private Label label1;
+        private Button btnAlexander;
     }
 }
