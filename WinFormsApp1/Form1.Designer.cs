@@ -20,9 +20,10 @@
             button1 = new Button();
             label1 = new Label();
             btnAlexander = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
-            // button1 (Егор)
+            // button1
             // 
             button1.Location = new Point(688, 12);
             button1.Name = "button1";
@@ -52,11 +53,22 @@
             btnAlexander.UseVisualStyleBackColor = true;
             btnAlexander.Click += btnAlexander_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(12, 387);
+            button2.Name = "button2";
+            button2.Size = new Size(100, 40);
+            button2.TabIndex = 3;
+            button2.Text = "Тимур";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(btnAlexander);
             Controls.Add(label1);
             Controls.Add(button1);
@@ -71,5 +83,6 @@
         private Button button1;
         private Label label1;
         private Button btnAlexander;
+        private Button button2;
     }
 }
