@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace MyGitHubProject // Замените на namespace вашего проекта
 {
-    public partial class Form4 : Form
+    public partial class Form4 : Form4
     {
         public Form4()
         {
