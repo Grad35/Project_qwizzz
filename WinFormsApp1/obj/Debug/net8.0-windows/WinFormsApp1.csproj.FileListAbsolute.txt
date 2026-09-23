@@ -17,3 +17,22 @@ d:\Project_Qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
 d:\Project_Qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 d:\Project_Qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 d:\Project_Qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resource1.resources
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
