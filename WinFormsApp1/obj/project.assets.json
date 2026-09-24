@@ -8,24 +8,26 @@
     "net8.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Тимур\\.nuget\\packages\\": {}
+    "C:\\Users\\Egor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\Тимур\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files\\GitHub\\Project_qwizzz\\WinFormsApp1\\obj\\",
+      "projectPath": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\Egor\\.nuget\\packages\\",
+      "outputPath": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Тимур\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Egor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,24 +64,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.31, 8.0.31]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.31, 8.0.31]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.31, 8.0.31]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.31, 8.0.31]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

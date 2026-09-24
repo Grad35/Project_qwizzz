@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "E:\\gh-Project1Rep\\Project_qwizzz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|e:\\gh-project1rep\\project_qwizzz\\winformsapp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|e:\\gh-project1rep\\project_qwizzz\\winformsapp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|e:\\gh-project1rep\\project_qwizzz\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|e:\\gh-project1rep\\project_qwizzz\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|E:\\gh-Project1Rep\\Project_qwizzz\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|e:\\gh-project1rep\\project_qwizzz\\winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|E:\\gh-Project1Rep\\Project_qwizzz\\winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D831AA85-313D-4B32-953B-8C08A85830FB}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,24 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form5.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form5.cs",
+              "ToolTip": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form5.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form5.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:19:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form5.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form5.cs",
+              "ToolTip": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp1\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:19:45.289Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T14:07:10.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
@@ -59,19 +92,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form4.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form4.cs",
               "ToolTip": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WinFormsApp1\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:03:54.667Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-09-23T14:03:54.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form4.Designer.cs",
               "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form4.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form4.Designer.cs",
@@ -79,12 +111,11 @@
               "RelativeToolTip": "WinFormsApp1\\Form4.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:19:34.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T13:19:34.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form4.cs",
               "DocumentMoniker": "E:\\gh-Project1Rep\\Project_qwizzz\\WinFormsApp1\\Form4.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form4.cs",
@@ -92,8 +123,7 @@
               "RelativeToolTip": "WinFormsApp1\\Form4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:19:16.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T13:19:16.211Z"
             }
           ]
         }

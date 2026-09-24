@@ -59,3 +59,4 @@ E:\gh-Project1Rep\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsA
 E:\gh-Project1Rep\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
 C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
 C:\Program Files\GitHub\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+E:\gh-Project1Rep\Project_qwizzz\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources

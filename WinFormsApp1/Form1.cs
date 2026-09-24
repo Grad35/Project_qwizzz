@@ -23,5 +23,11 @@ namespace WinFormsApp1
             Form4 newForm4 = new Form4();
             newForm4.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5 newForm5 = new Form5();
+            newForm5.Show();
+        }
     }
 }

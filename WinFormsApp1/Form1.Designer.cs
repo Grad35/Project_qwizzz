@@ -21,6 +21,7 @@
             label1 = new Label();
             btnAlexander = new Button();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -63,11 +64,22 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Location = new Point(688, 387);
+            button3.Name = "button3";
+            button3.Size = new Size(100, 40);
+            button3.TabIndex = 4;
+            button3.Text = "Диана";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(btnAlexander);
             Controls.Add(label1);
@@ -84,5 +96,6 @@
         private Label label1;
         private Button btnAlexander;
         private Button button2;
+        private Button button3;
     }
 }
